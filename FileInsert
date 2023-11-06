@@ -1,0 +1,12 @@
+INSERT INTO oradores (nombre, apellido, mail, tema, fecha_alta)
+VALUES
+    ('Juan', 'Perez', 'juan.perez@email.com', 'Inteligencia Artificial', '2023-01-15'),
+    ('María', 'González', 'maria.gonzalez@email.com', 'Programación Web', '2023-02-20'),
+    ('Luis', 'Martínez', 'luis.martinez@email.com', 'Ciberseguridad', '2023-03-10'),
+    ('Ana', 'López', 'ana.lopez@email.com', 'Big Data', '2023-04-05'),
+    ('Carlos', 'Rodríguez', 'carlos.rodriguez@email.com', 'Machine Learning', '2023-05-25'),
+    ('Laura', 'Díaz', 'laura.diaz@email.com', 'Desarrollo de Apps', '2023-06-15'),
+    ('Pedro', 'Fernández', 'pedro.fernandez@email.com', 'Redes de Computadoras', '2023-07-30'),
+    ('Sofía', 'Ramírez', 'sofia.ramirez@email.com', 'Cloud Computing', '2023-08-10'),
+    ('Miguel', 'Sánchez', 'miguel.sanchez@email.com', 'Seguridad de la Información', '2023-09-20'),
+    ('Isabel', 'Torres', 'isabel.torres@email.com', 'Desarrollo Frontend', '2023-10-05');
